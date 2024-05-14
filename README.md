@@ -1,2 +1,2 @@
-This a local repor<br>
+This a local repo<br>
 added to remote repo
